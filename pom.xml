@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven-releases</name>
-	      <url>http://15.206.160.195:8081/repository/maven-releases/</url>
+	      <name>ICICI</name>
+	      <url>http://3.25.108.194:8081/repository/ICICI/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>maven-snapshots</name>
-	      <url>http://15.206.160.195:8081/repository/maven-snapshots/</url>
+	      <name>ICIC-snap</name>
+	      <url>http://3.25.108.194:8081/repository/ICICI-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
